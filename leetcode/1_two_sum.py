@@ -19,5 +19,6 @@ def twoSum(nums, target):
             
 
 if __name__ == "__main__":
-    tt =  twoSum([3,3], 6)
-    breakpoint()
+    twoSum([3,3], 6)
+    twoSum([3,2,4], 6)
+    twoSum([2,1,7], 8)
